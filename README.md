@@ -1,3 +1,3 @@
 # Projects
 
-All of the contents of this Github are projects that I worked with at CSUSM
+Different projects that I have worked on for assignments or other projects that I have made
